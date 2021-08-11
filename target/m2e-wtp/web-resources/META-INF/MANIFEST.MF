@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: laura
+Build-Jdk: 15.0.2
+Implementation-Title: Crescendo Collective Skills Assessment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: crescendo.collective
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/crescendo.coll
+ ective.skills-assessment/
+Created-By: Maven Integration for Eclipse
+
